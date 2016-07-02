@@ -13,7 +13,7 @@ require.config({
 define('app', ['js/router', 'js/utils'], function(Router, Utils) {
 	Router.init();
 	var f7 = new Framework7({
-		modalTitle: 'Contacts7',
+		modalTitle: 'CorrecText',
 		swipePanel: 'left',
         animateNavBackIcon: true
 	});
